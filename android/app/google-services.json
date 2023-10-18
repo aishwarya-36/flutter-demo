@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "629116131374",
+    "project_id": "cazziopia-demo",
+    "storage_bucket": "cazziopia-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629116131374:android:544ff1184033913044a7bf",
+        "android_client_info": {
+          "package_name": "com.example.invoice_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6sXkZANM-AuDC-9u8cWKnH8KN_3Ovr9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
